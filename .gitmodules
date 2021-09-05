@@ -126,3 +126,35 @@
 	path = vendor
 	url = https://github.com/TimotheeJamin/mediawiki-vendor
 	branch = recapitulo1_35_3
+[submodule "extensions/UniversalLanguageSelector"]
+	path = extensions/UniversalLanguageSelector
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-UniversalLanguageSelector
+	branch = recapitulo1_35_3
+[submodule "extensions/Popups"]
+	path = extensions/Popups
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Popups
+	branch = recapitulo1_35_3
+[submodule "extensions/MobileFrontend"]
+	path = extensions/MobileFrontend
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-MobileFrontend
+	branch = recapitulo1_35_3
+[submodule "extensions/FlaggedRevs"]
+	path = extensions/FlaggedRevs
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-FlaggedRevs
+	branch = recapitulo1_35_3
+[submodule "extensions/Echo"]
+	path = extensions/Echo
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Echo
+	branch = recapitulo1_35_3
+[submodule "extensions/Flow"]
+	path = extensions/Flow
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Flow
+	branch = recapitulo1_35_3
+[submodule "skins/MinervaNeue"]
+	path = skins/MinervaNeue
+	url = https://github.com/TimotheeJamin/mediawiki-skins-MinervaNeue
+	branch = recapitulo1_35_3
+[submodule "extensions/DisplayTitle"]
+	path = extensions/DisplayTitle
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-DisplayTitle
+	branch = recapitulo1_35_3
