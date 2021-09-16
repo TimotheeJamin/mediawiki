@@ -1639,7 +1639,9 @@ class Article implements Page {
 				$this->getTitle(),
 				$context->msg( 'currentrevisionlink' )->text(),
 				[],
-				$extraParams
+				[
+					'oldid' => $this->mPage->getLatest()
+				] +	$extraParams
 			);
 		$curdiff = $current
 			? $context->msg( 'diff' )->escaped()
