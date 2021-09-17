@@ -160,6 +160,6 @@
 	branch = recapitulo1_35_3
 [submodule "extensions/ApprovedRevs"]
 	path = extensions/ApprovedRevs
-	url = http://github.com//TimotheeJamin/mediawiki-extensions-ApprovedRevs
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-ApprovedRevs
 	branch = recapitulo1_35_3
 	
