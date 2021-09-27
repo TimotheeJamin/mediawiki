@@ -166,3 +166,7 @@
 	path = extensions/TemplateStyles
 	url = https://github.com/TimotheeJamin/mediawiki-extensions-TemplateStyles
 	branch = recapitulo1_35_3
+[submodule "extensions/Citoid"]
+	branch = recapitulo1_35_3
+	path = extensions/Citoid
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Citoid
