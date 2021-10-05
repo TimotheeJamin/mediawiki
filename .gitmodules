@@ -170,3 +170,7 @@
 	branch = recapitulo1_35_3
 	path = extensions/Citoid
 	url = https://github.com/TimotheeJamin/mediawiki-extensions-Citoid
+[submodule "extensions/Math"]
+	path = extensions/Math
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Math
+	branch = recapitulo1_35_3
