@@ -174,3 +174,15 @@
 	path = extensions/Math
 	url = https://github.com/TimotheeJamin/mediawiki-extensions-Math
 	branch = recapitulo1_35_3
+[submodule "extensions/Variables"]
+	path = extensions/Variables
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Variables
+	branch = recapitulo1_35_3
+[submodule "extensions/Loops"]
+	path = extensions/Loops
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Loops
+	branch = recapitulo1_35_3
+[submodule "extensions/Arrays"]
+	path = extensions/Arrays
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Arrays
+	branch = recapitulo1_35_3
