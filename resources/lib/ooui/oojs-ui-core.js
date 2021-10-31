@@ -12430,6 +12430,29 @@ OO.ui.ComboBoxInputWidget.prototype.getInput = function () {
 	return this;
 };
 
+
+/**
+ * @inheritdoc
+ */
+ OO.ui.ComboBoxInputWidget.prototype.onEdit = function ( event ) {
+	console.log('onEdit')
+	// Parent method
+	OO.ui.ComboBoxInputWidget.super.prototype.onEdit.apply( this, arguments );
+
+	if ( this.menu.isVisible() || this.isDisabled() || !this.isVisible() ) {
+		return;
+	}
+
+	if ( event.type === 'input' || event.type === 'mouseup' || ( event.type === 'keydown' && (
+		event.keyCode === OO.ui.Keys.ENTER ||
+		event.keyCode === OO.ui.Keys.UP ||
+		event.keyCode === OO.ui.Keys.DOWN
+	) ) ) {
+		this.menu.toggle( true );
+	}
+};
+
+
 /**
  * @inheritdoc
  */
