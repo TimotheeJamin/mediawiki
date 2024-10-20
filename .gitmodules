@@ -186,3 +186,7 @@
 	path = extensions/Flow
 	url = https://github.com/TimotheeJamin/mediawiki-extensions-Flow
 	branch = recapitulo1_39
+[submodule "extensions/DiscussionTools"]
+	path = extensions/DiscussionTools
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-DiscussionTools
+	branch = recapitulo1_39
