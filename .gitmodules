@@ -190,3 +190,6 @@
 	path = extensions/DiscussionTools
 	url = https://github.com/TimotheeJamin/mediawiki-extensions-DiscussionTools
 	branch = recapitulo1_39
+[submodule "extensions/Linter"]
+	path = extensions/Linter
+	url = https://github.com/TimotheeJamin/mediawiki-extensions-Linter
