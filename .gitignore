@@ -92,3 +92,4 @@ docker-compose.override.yml
 
 # Recapitulo
 /customizations
+LocalSettings_*
