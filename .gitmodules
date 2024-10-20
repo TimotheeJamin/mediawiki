@@ -193,3 +193,4 @@
 [submodule "extensions/Linter"]
 	path = extensions/Linter
 	url = https://github.com/TimotheeJamin/mediawiki-extensions-Linter
+	branch = recapitulo1_39
